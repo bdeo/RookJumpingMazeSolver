@@ -1,0 +1,10 @@
+My program can be run by using the command: python3 Program1.py
+
+This will auto-run a series of trials and a complete run through of mazes that are generated from Problems 1-5.
+
+Problem 1 Function: maze_representation(n)
+Problem 2 Function: maze_evaluation(puzzle)
+Problem 3 Function: maze_generation(n, iterations, optionalBool to display evaluation information)
+Problem 4 Function: random_restarts(n, restarts, iterations, optionalBool to display evaluation information)
+Problem 5 Function: uphill(n, iterations, probability, optionalBool to display evaluation information)
+
